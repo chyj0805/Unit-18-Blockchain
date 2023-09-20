@@ -1,3 +1,3 @@
-![Pychain](./images/Pychain.png)
-![Pychain_validition](./images/Pychain_validition.png)
+![Pychain](/Pychain.png)
+![Pychain_validition](/Pychain_validition.png)
 
