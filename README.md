@@ -4,7 +4,7 @@
 
 
 # Screenshots
-![Pychain](images/Pychain.png)
+![Pychain](Images/Pychain.png)
 
-![Pychain_validition](images/Pychain_validition.png)
+![Pychain_validition](Images/Pychain_validition.png)
 
